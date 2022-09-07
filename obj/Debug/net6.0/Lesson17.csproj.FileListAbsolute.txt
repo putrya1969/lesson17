@@ -1,0 +1,15 @@
+D:\Beetroot\Lesson3\Lesson17\bin\Debug\net6.0\Lesson17.exe
+D:\Beetroot\Lesson3\Lesson17\bin\Debug\net6.0\Lesson17.deps.json
+D:\Beetroot\Lesson3\Lesson17\bin\Debug\net6.0\Lesson17.runtimeconfig.json
+D:\Beetroot\Lesson3\Lesson17\bin\Debug\net6.0\Lesson17.dll
+D:\Beetroot\Lesson3\Lesson17\bin\Debug\net6.0\Lesson17.pdb
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.AssemblyInfoInputs.cache
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.AssemblyInfo.cs
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.dll
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\refint\Lesson17.dll
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.pdb
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\Lesson17.genruntimeconfig.cache
+D:\Beetroot\Lesson3\Lesson17\obj\Debug\net6.0\ref\Lesson17.dll
